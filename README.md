@@ -1,4 +1,2 @@
 
-I'm trying to add some basic algorithms to this repo 
-
-I Just hope it's be useful.
+I am editing the README file. Adding some more details about the project description.
